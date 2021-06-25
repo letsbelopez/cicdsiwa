@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "cicdsiwac09c0f8d": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

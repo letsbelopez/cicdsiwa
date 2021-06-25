@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cicdsiwa-dev-191118-authRole",
+      "UnauthRoleArn": "arn:aws:iam::759315604407:role/amplify-cicdsiwa-dev-191118-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::759315604407:role/amplify-cicdsiwa-dev-191118-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cicdsiwa-dev-191118-deployment",
+      "UnauthRoleName": "amplify-cicdsiwa-dev-191118-unauthRole",
+      "StackName": "amplify-cicdsiwa-dev-191118",
+      "StackId": "arn:aws:cloudformation:us-east-1:759315604407:stack/amplify-cicdsiwa-dev-191118/20694c00-d5e9-11eb-9f58-123bd221e837",
+      "AmplifyAppId": "dv2mg2dt198bd"
+    },
+    "categories": {
+      "auth": {
+        "cicdsiwac09c0f8d": {}
+      }
+    }
+  }
+}
